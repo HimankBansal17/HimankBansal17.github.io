@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mycommunitylandmark/static/css/main.13b298a8.chunk.css",
+    "main.js": "/mycommunitylandmark/static/js/main.6d84ea26.chunk.js",
+    "main.js.map": "/mycommunitylandmark/static/js/main.6d84ea26.chunk.js.map",
+    "runtime-main.js": "/mycommunitylandmark/static/js/runtime-main.2a08c48d.js",
+    "runtime-main.js.map": "/mycommunitylandmark/static/js/runtime-main.2a08c48d.js.map",
+    "static/css/2.74189dbb.chunk.css": "/mycommunitylandmark/static/css/2.74189dbb.chunk.css",
+    "static/js/2.c56a1861.chunk.js": "/mycommunitylandmark/static/js/2.c56a1861.chunk.js",
+    "static/js/2.c56a1861.chunk.js.map": "/mycommunitylandmark/static/js/2.c56a1861.chunk.js.map",
+    "index.html": "/mycommunitylandmark/index.html",
+    "precache-manifest.f80aaa904567d217aa5e3df49a15d4fc.js": "/mycommunitylandmark/precache-manifest.f80aaa904567d217aa5e3df49a15d4fc.js",
+    "service-worker.js": "/mycommunitylandmark/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/mycommunitylandmark/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.13b298a8.chunk.css.map": "/mycommunitylandmark/static/css/main.13b298a8.chunk.css.map",
+    "static/js/2.c56a1861.chunk.js.LICENSE.txt": "/mycommunitylandmark/static/js/2.c56a1861.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a08c48d.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.c56a1861.chunk.js",
+    "static/css/main.13b298a8.chunk.css",
+    "static/js/main.6d84ea26.chunk.js"
+  ]
+}
